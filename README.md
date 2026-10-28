@@ -6,7 +6,7 @@ PGCN: Perspective-Geometry Consistency Network
 #### 安装教程
 
 1.  下载mmdetection
-2.  将pgcn文件夹放入到project中
+2.  将pgcn-dev文件夹放入到project中
 3.  使用mmdetcton命令进行训练
 
 #### 使用说明
