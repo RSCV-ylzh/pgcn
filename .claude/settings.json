@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pyinstaller --onefile --noconsole --name \"每周日历\" calendar_app.py)",
+      "Bash(ls -la \"d:\\\\360MoveData\\\\Users\\\\FIRE FIRE\\\\Desktop\\\\DSS\\\\dist\" && ls -la \"d:\\\\360MoveData\\\\Users\\\\FIRE FIRE\\\\Desktop\\\\DSS\\\\\"*.exe 2>/dev/null; ls \"d:\\\\360MoveData\\\\Users\\\\FIRE FIRE\\\\Desktop\\\\DSS\\\\dist\\\\\" 2>/dev/null)",
+      "Read(//d/360MoveData/Users/FIRE FIRE/Desktop/**)",
+      "Read(//d//**)",
+      "Bash(python -c \"import mmdet; print\\(mmdet.__file__\\)\")",
+      "Read(//c/Users/FIRE FIRE/AppData/Local/Programs/Python/Python310/lib/site-packages/mmdet/**)",
+      "Bash(python generate_architecture_figure.py)"
+    ]
+  }
+}
