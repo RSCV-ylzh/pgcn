@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(start \"\" \"d:\\\\360MoveData\\\\Users\\\\FIRE FIRE\\\\Desktop\\\\DSS\\\\weekly_calendar.html\")",
+      "Bash(pip list *)"
+    ]
+  }
+}
